@@ -29,25 +29,25 @@
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/html5.svg" alt="HTML5" width="100px" />
 
 #### Jasmine
-<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/jasmine.svg" alt="Jasmine" width="100px" />
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/jasmine.svg" alt="Jasmine" width="150px" />
 
 #### JQuery
-<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/jquery.svg" alt="JQuery" width="100px" />
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/jquery.svg" alt="JQuery" width="150px" />
 
 #### Knockout
-<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/knockoutjs.svg" alt="Knockout" width="100px" style="background-color:#cccccc !important;"/>
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/knockoutjs.svg" alt="Knockout" width="150px" style="background-color:#cccccc !important;"/>
 
 #### Less
-<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/less.svg" alt="Less" width="100px" />
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/less.svg" alt="Less" width="150px" />
 
 #### Marionette
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/marionette.svg" alt="Marionette" width="100px" />
 
 #### MongoDB
-<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/mongodb.svg" alt="MongoDB" width="100px" />
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/mongodb.svg" alt="MongoDB" width="150px" />
 
 #### NodeJS
-<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/nodejs.svg" alt="NodeJS" width="100px" />
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/nodejs.svg" alt="NodeJS" width="150px" />
 
 #### NPM
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/npm.svg" alt="NPM" width="100px" />
