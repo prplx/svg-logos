@@ -1,0 +1,1 @@
+![AJAX](/svg/ajax.svg "AJAX")
