@@ -35,7 +35,7 @@
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/jquery.svg" alt="JQuery" width="100px" />
 
 #### Knockout
-<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/knockout.svg" alt="Knockout" width="100px" />
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/knockout.svg" alt="Knockout" width="100px" style="background-color:#cccccc !important;"/>
 
 #### Less
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/less.svg" alt="Less" width="100px" />
@@ -55,8 +55,11 @@
 #### React
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/react.svg" alt="React" width="100px" />
 
-#### SASS
-<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/sass.svg" alt="SASS" width="100px" />
+#### Sass
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/sass.svg" alt="Sass" width="100px" />
+
+#### Stylus
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/stylus.svg" alt="Stylus" width="100px" />
 
 #### Yeoman
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/yeoman.svg" alt="Yeoman" width="100px" />
