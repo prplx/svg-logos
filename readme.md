@@ -1,1 +1,1 @@
-![AJAX](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/ajax.svg "AJAX")
+![AJAX](https://cdn.rawgit.com/prplx/svg-logos/master/svg/ajax.svg "AJAX")
