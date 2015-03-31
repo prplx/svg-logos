@@ -1,1 +1,2 @@
-![AJAX](https://cdn.rawgit.com/prplx/svg-logos/master/svg/ajax.svg "AJAX")
+#### AJAX
+![AJAX](https://cdn.rawgit.com/prplx/svg-logos/master/svg/ajax.svg =250x100)
