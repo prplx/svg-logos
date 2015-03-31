@@ -31,8 +31,8 @@
 #### Jasmine
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/jasmine.svg" alt="Jasmine" width="150px" />
 
-#### JQuery
-<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/jquery.svg" alt="JQuery" width="150px" />
+#### jQuery
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/jquery.svg" alt="jQuery" width="150px" />
 
 #### Knockout
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/knockoutjs.svg" alt="Knockout" width="150px" style="background-color:#cccccc !important;"/>
