@@ -35,7 +35,7 @@
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/jquery.svg" alt="JQuery" width="100px" />
 
 #### Knockout
-<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/knockout.svg" alt="Knockout" width="100px" style="background-color:#cccccc !important;"/>
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/knockoutjs.svg" alt="Knockout" width="100px" style="background-color:#cccccc !important;"/>
 
 #### Less
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/less.svg" alt="Less" width="100px" />
