@@ -1,1 +1,1 @@
-![AJAX](https://bytebucket.org/prplx/webdev-svg-logo/raw/ecea599f14b865ad3a8e296dff4181608f6db5ef/svg/ajax.svg "AJAX")
+![AJAX](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/ajax.svg "AJAX")
