@@ -19,11 +19,17 @@
 #### CSS3
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/css3.svg" alt="CSS3" width="100px" />
 
+#### Ember
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/ember.svg" alt="Ember" width="100px" />
+
 #### Grunt
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/grunt.svg" alt="Grunt" width="100px" />
 
 #### Gulp
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/gulp.svg" alt="Gulp" width="100px" />
+
+#### Handlebars
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/handlebars.svg" alt="Handlebars" width="100px" />
 
 #### HTML5
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/html5.svg" alt="HTML5" width="100px" />
@@ -43,6 +49,9 @@
 #### Marionette
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/marionette.svg" alt="Marionette" width="100px" />
 
+#### Materialize
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/materialize.svg" alt="Materialize" width="100px" />
+
 #### MongoDB
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/mongodb.svg" alt="MongoDB" width="150px" />
 
@@ -51,6 +60,9 @@
 
 #### NPM
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/npm.svg" alt="NPM" width="100px" />
+
+#### Polymer
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/polymer.svg" alt="Polymer" width="100px" />
 
 #### React
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/react.svg" alt="React" width="100px" />
