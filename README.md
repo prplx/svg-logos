@@ -61,6 +61,9 @@
 #### Stylus
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/stylus.svg" alt="Stylus" width="100px" />
 
+#### Webpack
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/webpack.svg" alt="Webpack" width="100px" />
+
 #### Yeoman
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/yeoman.svg" alt="Yeoman" width="100px" />
 
