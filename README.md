@@ -37,6 +37,9 @@
 #### Jasmine
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/jasmine.svg" alt="Jasmine" width="150px" />
 
+#### JavaScript
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/javascript.svg" alt="JavaScript" width="150px" />
+
 #### jQuery
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/jquery.svg" alt="jQuery" width="150px" />
 
