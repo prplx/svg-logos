@@ -82,5 +82,52 @@
 #### Yeoman
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/yeoman.svg" alt="Yeoman" width="100px" />
 
-#### Zurb
+#### Foundation
 <img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/zurb.svg" alt="Zurb" width="100px" />
+
+#### Babel
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/babel.svg" alt="Babel" width="100px" />
+
+#### Browserify
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/browserify.svg" alt="Browserify" width="100px" />
+
+#### Chai
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/chai.svg" alt="Chai" width="100px" />
+
+#### Cycle JS
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/cyclejs.svg" alt="CycleJS" width="100px" />
+
+#### D3
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/d3.svg" alt="D3" width="100px" />
+
+#### Docker
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/docker.svg" alt="Docker" width="100px" />
+
+#### ESLint
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/eslint.svg" alt="ESLint" width="100px" />
+
+#### Express
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/express.svg" alt="Express" width="100px" />
+
+#### Flow
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/flow.svg" alt="Flow" width="100px" />
+
+#### Git
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/git.svg" alt="Git" width="100px" />
+
+#### Meteor
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/meteor.svg" alt="Meteor" width="100px" />
+
+#### Redux
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/redux.svg" alt="Redux" width="100px" />
+
+#### Semantic UI
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/semantic_ui.svg" alt="Semantic UI" width="100px" />
+
+#### Vue
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/vue.svg" alt="Vue" width="100px" />
+
+#### Yarn
+<img src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/yarn.svg" alt="Yarn" width="100px" />
+
+

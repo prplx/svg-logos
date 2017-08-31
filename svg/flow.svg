@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="93px" height="115px" viewBox="0 0 93 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>flow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="16.1074159%" y1="58.0559922%" x2="72.7087331%" y2="72.523198%" id="linearGradient-1">
+            <stop stop-color="#FFD441" offset="0%"></stop>
+            <stop stop-color="#FFB047" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="70.2130942%" y1="65.5439106%" x2="100%" y2="0.800385511%" id="linearGradient-2">
+            <stop stop-color="#FFD754" offset="0%"></stop>
+            <stop stop-color="#FFB532" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.1778859%" y1="65.8796571%" x2="22.1778855%" y2="9.96742615%" id="linearGradient-3">
+            <stop stop-color="#FFD642" offset="0%"></stop>
+            <stop stop-color="#FFD441" offset="0%"></stop>
+            <stop stop-color="#FFB532" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="77.0829517%" y1="24.2984871%" x2="23.9819062%" y2="6.96628778%" id="linearGradient-4">
+            <stop stop-color="#FFD441" offset="0%"></stop>
+            <stop stop-color="#FFA829" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logos" transform="translate(-30.000000, -1943.000000)" fill-rule="nonzero">
+            <g id="flow" transform="translate(30.000000, 1943.000000)">
+                <polyline id="Shape" fill-opacity="0.7" fill="#FFDF51" points="76 113 76 83 47 83 76 113"></polyline>
+                <polyline id="Shape" fill-opacity="0.7" fill="#FF8900" points="80 95 80 63 48 63 80 95"></polyline>
+                <polyline id="Shape" fill-opacity="0.699999988" fill="url(#linearGradient-1)" points="61 83 61 115 93 115 61 83"></polyline>
+                <polyline id="Shape" fill-opacity="0.7" fill="#FFDF4F" points="73 65 73 40 48 40 73 65"></polyline>
+                <polyline id="Shape" fill-opacity="0.799999952" fill="url(#linearGradient-2)" points="86 59 86 27 54 27 86 59"></polyline>
+                <polyline id="Shape" fill-opacity="0.8" fill="url(#linearGradient-3)" points="31 0 31 32 63 32 31 0"></polyline>
+                <polyline id="Shape" fill-opacity="0.879999995" fill="url(#linearGradient-4)" points="39 49.9934472 39 18 0 18 32.1120016 50 39 49.9934472"></polyline>
+                <polyline id="Shape" fill-opacity="0.7" fill="#FFB700" points="39 115 39 76 0 76 39 115"></polyline>
+                <polyline id="Shape" fill-opacity="0.5" fill="#FFB700" points="39 82 39 50 7 50 39 82"></polyline>
+                <polyline id="Shape" fill-opacity="0.7" fill="#FFCD25" points="48 40 48 72 80 72 48 40"></polyline>
+                <polyline id="Shape" fill-opacity="0.700000048" fill="#FF8900" points="39 44 39 12 7 12 39 44"></polyline>
+                <polyline id="Shape" fill-opacity="0.7" fill="#FF8900" points="47 83 47 115 79 115 47 83"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
