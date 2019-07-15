@@ -14,15 +14,15 @@
 
 #### TypeScript Icon
 
-<img src="svg/typescript-icon.svg" alt="Yarn" width="200px" />
+<img src="svg/typescript-icon.svg" alt="TypeScript" width="200px" />
 
 #### Elm
 
-<img src="svg/elm.svg" alt="Yarn" width="200px" />
+<img src="svg/elm.svg" alt="Elm" width="200px" />
 
 #### ReasonML
 
-<img src="svg/reasonml.svg" alt="Yarn" width="200px" />
+<img src="svg/reasonml.svg" alt="ReasonML" width="200px" />
 
 #### HTML5
 
@@ -43,6 +43,10 @@
 #### Stylus
 
 <img src="svg/stylus.svg" alt="Stylus" width="200px" />
+
+#### GraphQL
+
+<img src="svg/graphql.svg" alt="GraphQL" width="200px" />
 
 ## Frameworks and libraries
 
@@ -124,13 +128,25 @@
 
 #### Svelte
 
-<img src="svg/svelte.svg" alt="Yarn" width="200px" />
+<img src="svg/svelte.svg" alt="Svelte" width="200px" />
+
+#### Apollo
+
+<img src="svg/apollo.svg" alt="Apollo" width="200px" />
+
+#### Relay
+
+<img src="svg/relay.svg" alt="Relay" width="200px" />
+
+#### Nest
+
+<img src="svg/nest.svg" alt="Nest" width="200px" />
 
 ## Testing
 
 #### Jest
 
-<img src="svg/jest.svg" alt="Jasmine" width="200px" />
+<img src="svg/jest.svg" alt="Jest" width="200px" />
 
 #### Jasmine
 
@@ -208,11 +224,11 @@
 
 #### Kubernetes
 
-<img src="svg/kubernetes.svg" alt="Yarn" width="200px" />
+<img src="svg/kubernetes.svg" alt="Kubernetes" width="200px" />
 
 #### PostCSS
 
-<img src="svg/postcss.svg" alt="Gulp" width="200px" />
+<img src="svg/postcss.svg" alt="PostCSS" width="200px" />
 
 #### AJAX
 
@@ -220,24 +236,24 @@
 
 #### AWS
 
-<img src="svg/aws.svg" alt="AJAX" width="200px" />
+<img src="svg/aws.svg" alt="AWS" width="200px" />
 
 #### Azure
 
-<img src="svg/azure.svg" alt="AJAX" width="200px" />
+<img src="svg/azure.svg" alt="Azure" width="200px" />
 
 #### Gitlab
 
-<img src="svg/gitlab.svg" alt="AJAX" width="200px" />
+<img src="svg/gitlab.svg" alt="Gitlab" width="200px" />
 
 #### Gitlab Icon
 
-<img src="svg/gitlab-icon.svg" alt="AJAX" width="200px" />
+<img src="svg/gitlab-icon.svg" alt="Gitlab Icon" width="200px" />
 
 #### Github
 
-<img src="svg/github.svg" alt="AJAX" width="200px" />
+<img src="svg/github.svg" alt="Github" width="200px" />
 
 #### Github Icon
 
-<img src="svg/github-icon.svg" alt="AJAX" width="200px" />
+<img src="svg/github-icon.svg" alt="Github Icon" width="200px" />
