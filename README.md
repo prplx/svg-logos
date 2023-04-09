@@ -1,259 +1,87 @@
-## Languages
+## A
 
-#### JavaScript
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/ajax.svg"><img src="svg/ajax.svg" alt="ajax" width="100px" /></a> [AJAX](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/ajax.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/angular.svg"><img src="svg/angular.svg" alt="angular" width="100px" /></a> [Angular](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/angular.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/apollo.svg"><img src="svg/apollo.svg" alt="apollo" width="100px" /></a> [Apollo](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/apollo.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/astro-icon.svg"><img src="svg/astro-icon.svg" alt="astro-icon" width="100px" /></a> [Astro](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/astro-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/astro.svg"><img src="svg/astro.svg" alt="astro" width="100px" /></a> [Astro](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/astro.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/aws.svg"><img src="svg/aws.svg" alt="aws" width="100px" /></a> [AWS](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/aws.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/azure.svg"><img src="svg/azure.svg" alt="azure" width="100px" /></a> [Azure](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/azure.svg)
 
-<img src="svg/javascript.svg" alt="JavaScript" width="200px" />
+## B
 
-#### CoffeeScript
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/babel.svg"><img src="svg/babel.svg" alt="babel" width="100px" /></a> [Babel](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/babel.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/backbone.svg"><img src="svg/backbone.svg" alt="backbone" width="100px" /></a> [Backbone](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/backbone.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/bootstrap.svg"><img src="svg/bootstrap.svg" alt="bootstrap" width="100px" /></a> [Bootstrap](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/bootstrap.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/bower.svg"><img src="svg/bower.svg" alt="bower" width="100px" /></a> [Bower](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/bower.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/browserify.svg"><img src="svg/browserify.svg" alt="browserify" width="100px" /></a> [Browserify](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/browserify.svg)
 
-<img src="svg/coffeescript.svg" alt="CoffeeScript" width="200px" />
+## C
 
-#### TypeScript
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/chai.svg"><img src="svg/chai.svg" alt="chai" width="100px" /></a> [Chai](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/chai.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/coffeescript.svg"><img src="svg/coffeescript.svg" alt="coffeescript" width="100px" /></a> [CoffeeScript](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/coffeescript.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/css3.svg"><img src="svg/css3.svg" alt="css3" width="100px" /></a> [CSS3](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/css3.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/cyclejs.svg"><img src="svg/cyclejs.svg" alt="cyclejs" width="100px" /></a> [CycleJS](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/cyclejs.svg)
 
-<img src="svg/typescript.svg" alt="Yarn" width="200px" />
+## D
 
-#### TypeScript Icon
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/d3.svg"><img src="svg/d3.svg" alt="d3" width="100px" /></a> [D3](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/d3.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/docker.svg"><img src="svg/docker.svg" alt="docker" width="100px" /></a> [Docker](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/docker.svg)
 
-<img src="svg/typescript-icon.svg" alt="TypeScript" width="200px" />
+## E
 
-#### Elm
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/elm.svg"><img src="svg/elm.svg" alt="elm" width="100px" /></a> [Elm](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/elm.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/ember.svg"><img src="svg/ember.svg" alt="ember" width="100px" /></a> [Ember](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/ember.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/eslint.svg"><img src="svg/eslint.svg" alt="eslint" width="100px" /></a> [ESLint](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/eslint.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/express.svg"><img src="svg/express.svg" alt="express" width="100px" /></a> [Express](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/express.svg)
 
-<img src="svg/elm.svg" alt="Elm" width="200px" />
+## F
 
-#### ReasonML
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/flow.svg"><img src="svg/flow.svg" alt="flow" width="100px" /></a> [Flow](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/flow.svg)
 
-<img src="svg/reasonml.svg" alt="ReasonML" width="200px" />
+## G
 
-#### HTML5
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/git.svg"><img src="svg/git.svg" alt="git" width="100px" /></a> [Git](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/git.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/github-icon.svg"><img src="svg/github-icon.svg" alt="github-icon" width="100px" /></a> [GitHub](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/github-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/github.svg"><img src="svg/github.svg" alt="github" width="100px" /></a> [GitHub](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/github.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/gitlab-icon.svg"><img src="svg/gitlab-icon.svg" alt="gitlab-icon" width="100px" /></a> [GitLab](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/gitlab-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/gitlab.svg"><img src="svg/gitlab.svg" alt="gitlab" width="100px" /></a> [Gitlab](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/gitlab.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/graphql.svg"><img src="svg/graphql.svg" alt="graphql" width="100px" /></a> [GraphQL](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/graphql.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/grunt.svg"><img src="svg/grunt.svg" alt="grunt" width="100px" /></a> [Grunt](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/grunt.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/gulp.svg"><img src="svg/gulp.svg" alt="gulp" width="100px" /></a> [Gulp](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/gulp.svg)
 
-<img src="svg/html5.svg" alt="HTML5" width="200px" />
+## H
 
-#### CSS3
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/handlebars.svg"><img src="svg/handlebars.svg" alt="handlebars" width="100px" /></a> [Handlebars](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/handlebars.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/html5.svg"><img src="svg/html5.svg" alt="html5" width="100px" /></a> [HTML5](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/html5.svg)
 
-<img src="svg/css3.svg" alt="CSS3" width="200px" />
+## J
 
-#### Less
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/jasmine.svg"><img src="svg/jasmine.svg" alt="jasmine" width="100px" /></a> [Jasmine](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/jasmine.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/javascript.svg"><img src="svg/javascript.svg" alt="javascript" width="100px" /></a> [JavaScript](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/javascript.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/jest.svg"><img src="svg/jest.svg" alt="jest" width="100px" /></a> [Jest](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/jest.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/jquery.svg"><img src="svg/jquery.svg" alt="jquery" width="100px" /></a> [jQuery](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/jquery.svg)
 
-<img src="svg/less.svg" alt="Less" width="200px" />
+## K
 
-#### Sass
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/knockoutjs.svg"><img src="svg/knockoutjs.svg" alt="knockoutjs" width="100px" /></a> [KnockoutJS](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/knockoutjs.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/kubernetes.svg"><img src="svg/kubernetes.svg" alt="kubernetes" width="100px" /></a> [Kubernetes](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/kubernetes.svg)
 
-<img src="svg/sass.svg" alt="Sass" width="200px" />
+## L
 
-#### Stylus
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/less.svg"><img src="svg/less.svg" alt="less" width="100px" /></a> [Less](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/less.svg)
 
-<img src="svg/stylus.svg" alt="Stylus" width="200px" />
+## M
 
-#### GraphQL
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/marionette.svg"><img src="svg/marionette.svg" alt="marionette" width="100px" /></a> [Marionette](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/marionette.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/materialize.svg"><img src="svg/materialize.svg" alt="materialize" width="100px" /></a> [Materialize](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/materialize.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/meteor.svg"><img src="svg/meteor.svg" alt="meteor" width="100px" /></a> [Meteor](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/meteor.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/mobx.svg"><img src="svg/mobx.svg" alt="mobx" width="100px" /></a> [MobX](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/mobx.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/mongodb.svg"><img src="svg/mongodb.svg" alt="mongodb" width="100px" /></a> [MongoDB](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/mongodb.svg)
 
-<img src="svg/graphql.svg" alt="GraphQL" width="200px" />
+## N
 
-## Frameworks and libraries
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nest.svg"><img src="svg/nest.svg" alt="nest" width="100px" /></a> [Nest](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nest.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nextjs-icon.svg"><img src="svg/nextjs-icon.svg" alt="nextjs-icon" width="100px" /></a> [NextJS](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nextjs-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nextjs.svg"><img src="svg/nextjs.svg" alt="nextjs" width="100px" /></a> [NextJS](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nextjs.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nodejs.svg"><img src="svg/nodejs.svg" alt="nodejs" width="100px" /></a> [NodeJS](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/nodejs.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/npm.svg"><img src="svg/npm.svg" alt="npm" width="100px" /></a> [NPM](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/npm.svg)
 
-#### Angular
+## P
 
-<img src="svg/angular.svg" alt="Angular" width="200px" />
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/polymer.svg"><img src="svg/polymer.svg" alt="polymer" width="100px" /></a> [Polymer](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/polymer.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/postcss.svg"><img src="svg/postcss.svg" alt="postcss" width="100px" /></a> [PostCSS](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/postcss.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/prisma-icon.svg"><img src="svg/prisma-icon.svg" alt="prisma-icon" width="100px" /></a> [Prisma](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/prisma-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/prisma.svg"><img src="svg/prisma.svg" alt="prisma" width="100px" /></a> [Prisma](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/prisma.svg)
 
-#### Backbone
+## Q
 
-<img src="svg/backbone.svg" alt="Backbone" width="200px" />
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/qwik.svg"><img src="svg/qwik.svg" alt="qwik" width="100px" /></a> [Qwik](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/qwik.svg)
 
-#### Bootstrap
+## R
 
-<img src="svg/bootstrap.svg" alt="Bootstrap" width="200px" />
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/react.svg"><img src="svg/react.svg" alt="react" width="100px" /></a> [React](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/react.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/reasonml.svg"><img src="svg/reasonml.svg" alt="reasonml" width="100px" /></a> [ReasonML](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/reasonml.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg"><img src="svg/redux.svg" alt="redux" width="100px" /></a> [Redux](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/relay.svg"><img src="svg/relay.svg" alt="relay" width="100px" /></a> [Relay](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/relay.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/remix-icon.svg"><img src="svg/remix-icon.svg" alt="remix-icon" width="100px" /></a> [Remix](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/remix-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/remix.svg"><img src="svg/remix.svg" alt="remix" width="100px" /></a> [Remix](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/remix.svg)
 
-#### Ember
+## S
 
-<img src="svg/ember.svg" alt="Ember" width="200px" />
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/sass.svg"><img src="svg/sass.svg" alt="sass" width="100px" /></a> [Sass](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/sass.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/semantic_ui.svg"><img src="svg/semantic_ui.svg" alt="semantic_ui" width="100px" /></a> [Semantic_ui](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/semantic_ui.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/solidjs-icon.svg"><img src="svg/solidjs-icon.svg" alt="solidjs-icon" width="100px" /></a> [SolidJS](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/solidjs-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/solidjs.svg"><img src="svg/solidjs.svg" alt="solidjs" width="100px" /></a> [SolidJS](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/solidjs.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/stylus.svg"><img src="svg/stylus.svg" alt="stylus" width="100px" /></a> [Stylus](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/stylus.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/svelte-kit.svg"><img src="svg/svelte-kit.svg" alt="svelte-kit" width="100px" /></a> [SvelteKit](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/svelte-kit.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/svelte.svg"><img src="svg/svelte.svg" alt="svelte" width="100px" /></a> [Svelte](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/svelte.svg)
 
-#### Handlebars
+## T
 
-<img src="svg/handlebars.svg" alt="Handlebars" width="200px" />
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/tailwindcss-icon.svg"><img src="svg/tailwindcss-icon.svg" alt="tailwindcss-icon" width="100px" /></a> [TailwindCSS](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/tailwindcss-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/tailwindcss.svg"><img src="svg/tailwindcss.svg" alt="tailwindcss" width="100px" /></a> [TailwindCSS](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/tailwindcss.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/trpc-icon.svg"><img src="svg/trpc-icon.svg" alt="trpc-icon" width="100px" /></a> [TRPC](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/trpc-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/trpc.svg"><img src="svg/trpc.svg" alt="trpc" width="100px" /></a> [TRPC](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/trpc.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/typescript-icon.svg"><img src="svg/typescript-icon.svg" alt="typescript-icon" width="100px" /></a> [Typescript](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/typescript-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/typescript.svg"><img src="svg/typescript.svg" alt="typescript" width="100px" /></a> [Typescript](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/typescript.svg)
 
-#### jQuery
+## V
 
-<img src="svg/jquery.svg" alt="jQuery" width="200px" />
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/vercel-icon.svg"><img src="svg/vercel-icon.svg" alt="vercel-icon" width="100px" /></a> [Vercel](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/vercel-icon.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/vercel.svg"><img src="svg/vercel.svg" alt="vercel" width="100px" /></a> [Vercel](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/vercel.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/vue.svg"><img src="svg/vue.svg" alt="vue" width="100px" /></a> [Vue](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/vue.svg)
 
-#### Marionette
+## W
 
-<img src="svg/marionette.svg" alt="Marionette" width="200px" />
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/webpack.svg"><img src="svg/webpack.svg" alt="webpack" width="100px" /></a> [Webpack](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/webpack.svg)
 
-#### Materialize
+## Y
 
-<img src="svg/materialize.svg" alt="Materialize" width="200px" />
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/yarn.svg"><img src="svg/yarn.svg" alt="yarn" width="100px" /></a> [Yarn](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/yarn.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/yeoman.svg"><img src="svg/yeoman.svg" alt="yeoman" width="100px" /></a> [Yeoman](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/yeoman.svg)
 
-#### Cycle JS
+## Z
 
-<img src="svg/cyclejs.svg" alt="CycleJS" width="200px" style="background-color: grey"/>
-
-#### Knockout
-
-<img src="svg/knockoutjs.svg" alt="Knockout" width="200px" style="background-color:#cccccc !important;"/>
-
-#### Polymer
-
-<img src="svg/polymer.svg" alt="Polymer" width="200px" />
-
-#### React
-
-<img src="svg/react.svg" alt="React" width="200px" />
-
-#### Foundation
-
-<img src="svg/zurb.svg" alt="Zurb" width="200px" />
-
-#### Vue
-
-<img src="svg/vue.svg" alt="Vue" width="200px" />
-
-#### Meteor
-
-<img src="svg/meteor.svg" alt="Meteor" width="200px" style="background-color: grey"/>
-
-#### Redux
-
-<img src="svg/redux.svg" alt="Redux" width="200px" />
-
-#### Semantic UI
-
-<img src="svg/semantic_ui.svg" alt="Semantic UI" width="200px" />
-
-#### Express
-
-<img src="svg/express.svg" alt="Express" width="200px" />
-
-#### D3
-
-<img src="svg/d3.svg" alt="D3" width="200px" />
-
-#### Svelte
-
-<img src="svg/svelte.svg" alt="Svelte" width="200px" />
-
-#### Apollo
-
-<img src="svg/apollo.svg" alt="Apollo" width="200px" />
-
-#### Relay
-
-<img src="svg/relay.svg" alt="Relay" width="200px" />
-
-#### Nest
-
-<img src="svg/nest.svg" alt="Nest" width="200px" />
-
-## Testing
-
-#### Jest
-
-<img src="svg/jest.svg" alt="Jest" width="200px" />
-
-#### Jasmine
-
-<img src="svg/jasmine.svg" alt="Jasmine" width="200px" />
-
-#### Chai
-
-<img src="svg/chai.svg" alt="Chai" width="200px" />
-
-## Package managers
-
-#### Bower
-
-<img src="svg/bower.svg" alt="Bower" width="200px" />
-
-#### NPM
-
-<img src="svg/npm.svg" alt="NPM" width="200px" />
-
-#### Yarn
-
-<img src="svg/yarn.svg" alt="Yarn" width="200px" />
-
-## Bundlers
-
-#### Grunt
-
-<img src="svg/grunt.svg" alt="Grunt" width="200px" />
-
-#### Gulp
-
-<img src="svg/gulp.svg" alt="Gulp" width="200px" />
-
-#### Webpack
-
-<img src="svg/webpack.svg" alt="Webpack" width="200px" />
-
-#### Browserify
-
-<img src="svg/browserify.svg" alt="Browserify" width="200px" />
-
-## Other
-
-#### MongoDB
-
-<img src="svg/mongodb.svg" alt="MongoDB" width="200px" />
-
-#### NodeJS
-
-<img src="svg/nodejs.svg" alt="NodeJS" width="200px" />
-
-#### Yeoman
-
-<img src="svg/yeoman.svg" alt="Yeoman" width="200px" />
-
-#### Babel
-
-<img src="svg/babel.svg" alt="Babel" width="200px" />
-
-#### Docker
-
-<img src="svg/docker.svg" alt="Docker" width="200px" />
-
-#### ESLint
-
-<img src="svg/eslint.svg" alt="ESLint" width="200px" />
-
-#### Flow
-
-<img src="svg/flow.svg" alt="Flow" width="200px" />
-
-#### Git
-
-<img src="svg/git.svg" alt="Git" width="200px" />
-
-#### Kubernetes
-
-<img src="svg/kubernetes.svg" alt="Kubernetes" width="200px" />
-
-#### PostCSS
-
-<img src="svg/postcss.svg" alt="PostCSS" width="200px" />
-
-#### AJAX
-
-<img src="svg/ajax.svg" alt="AJAX" width="200px" />
-
-#### AWS
-
-<img src="svg/aws.svg" alt="AWS" width="200px" />
-
-#### Azure
-
-<img src="svg/azure.svg" alt="Azure" width="200px" />
-
-#### Gitlab
-
-<img src="svg/gitlab.svg" alt="Gitlab" width="200px" />
-
-#### Gitlab Icon
-
-<img src="svg/gitlab-icon.svg" alt="Gitlab Icon" width="200px" />
-
-#### Github
-
-<img src="svg/github.svg" alt="Github" width="200px" />
-
-#### Github Icon
-
-<img src="svg/github-icon.svg" alt="Github Icon" width="200px" />
+<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/zod.svg"><img src="svg/zod.svg" alt="zod" width="100px" /></a> [Zod](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/zod.svg)&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/zurb.svg"><img src="svg/zurb.svg" alt="zurb" width="100px" /></a> [Zurb](https://raw.githubusercontent.com/prplx/svg-logos/master/svg/zurb.svg)
